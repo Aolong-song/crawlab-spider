@@ -10,7 +10,7 @@
     "crawlab-sdk": "^0.2.0",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "mongodb": "^3.5.9",
     "mongoose": "^5.9.20",
